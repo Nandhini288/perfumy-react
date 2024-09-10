@@ -19,8 +19,11 @@ li,h1{
 and move the list to left
 */
 ul{
-    margin-left: 60%;
     display: inline;
+    position: absolute;
+    right: 0;
+    margin-right: 40px;
+   
 }
 
 /* Step 10 Change the color of the a tag to grey
