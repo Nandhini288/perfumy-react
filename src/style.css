@@ -22,8 +22,7 @@ ul{
     display: inline;
     position: absolute;
     right: 0;
-    margin-right: 20px;
-   
+    margin-right: 10px;
 }
 
 /* Step 10 Change the color of the a tag to grey
@@ -33,7 +32,7 @@ li {
     color: grey;
     text-decoration: none;
     margin: 5px;
-    cursor: pointer;
+   
 }
 /* Step 11 use hover property with a tag to change 
 the color from grey to white
@@ -42,6 +41,7 @@ the color from grey to white
 /* Step 10 Go back to HTML */
 li:hover{
     color: white;
+    cursor: pointer;
 }
 
 /* Step 14 Select input tag and set width and padding*/
